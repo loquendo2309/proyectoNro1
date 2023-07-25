@@ -15,4 +15,4 @@ jobs:
         uses: php-actions/phpunit@master
         with:
           bootstrap: vendor/autoload.php
-          configuration: phpunit.xml
+          configuration: phpunit.xml
